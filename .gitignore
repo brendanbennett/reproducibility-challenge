@@ -1,4 +1,4 @@
-*.pdf
+/*.pdf
 
 .venv/
 latex_source/
